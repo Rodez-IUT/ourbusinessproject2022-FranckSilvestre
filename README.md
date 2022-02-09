@@ -10,7 +10,7 @@
 
 ## Consignes sur l'utilisation de Git et Github
 
-Durant votre travail, à chaque apparition d'une indication de type 
+Durant votre travail,  à chaque apparition d'une indication de type 
 > fix #… 
 commitez et pushez sur Github votre projet mis à jour avec comme message de commit le message indiqué "fix #...".
 
